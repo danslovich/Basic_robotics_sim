@@ -1,6 +1,5 @@
 # Move Robot into room with orange bench
 # Req: Utilize RobotControl functs discussed
-# Additional: Print funct output after each movement
 
 from robot_control_class import RobotControl
 

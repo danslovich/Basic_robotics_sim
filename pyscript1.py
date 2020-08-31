@@ -16,9 +16,6 @@ while True:
 		print ("The robot stopped at %f meters from the wall" % dist)
 		
 	else:
-		# Move straight when wall >1m away
+	    # Move straight when wall >1m away
 		rc.move_straight()
 		print ("The robot is %f meters from the wall" % dist)
-
-
-
